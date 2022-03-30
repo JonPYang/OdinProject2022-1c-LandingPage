@@ -1,1 +1,1 @@
-Html barebones for header of frontpage.html
+CSS for header of frontpage.html
