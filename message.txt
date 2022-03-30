@@ -1,1 +1,1 @@
-CSS for second content container of frontpage.html
+CSS for call to action banner content of frontpage.html

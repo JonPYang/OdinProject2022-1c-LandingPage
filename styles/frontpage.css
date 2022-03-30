@@ -124,3 +124,39 @@ button {
     align-self: flex-end;
     font-weight: bold;
 }
+
+.container-4 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container4-inner {
+    margin: 3rem;
+    background:#3882f6;
+    color:#f9faf8;
+    width: 800px;
+    border-radius: 10px;
+    height: 100px;
+    padding: 50px 100px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container4-title {
+    font-weight: bolder;
+    font-size: 28px;
+}
+
+.container4-message{
+    font-weight: light;
+}
+
+button {
+    border: solid white 2px;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
