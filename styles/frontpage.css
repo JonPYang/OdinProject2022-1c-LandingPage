@@ -67,3 +67,39 @@ button {
     border-style: none;
     margin-top: 10px;
 }
+
+.container-2 {
+    padding: 40px;
+    color: #1f2937;
+    font-weight: bolder;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container2-lower {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card{
+    flex: 0;
+    color:#5353539a;
+    font-weight: lighter;
+    font-size: 16px;
+    text-align: center;
+}
+
+.cardbox {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 20px;
+    width: 125px;
+    height: 125px;
+    border-radius: 1rem;
+    border: 5px solid #3882f6;
+}
