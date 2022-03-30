@@ -1,5 +1,1 @@
-Adjustments and refactoring
-
-Changed padding for various blocks
-Transferred page over to index.html (with corresponding styles.css)
-Removed font.html and font.css
+Changed README.md
