@@ -1,0 +1,1 @@
+Initialize index, project pages, css sheets
