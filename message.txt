@@ -1,1 +1,1 @@
-CSS for call to action banner content of frontpage.html
+Last remaining part (footer) for frontpage.html;

@@ -133,7 +133,7 @@ button {
 }
 
 .container4-inner {
-    margin: 3rem;
+    margin: 4rem;
     background:#3882f6;
     color:#f9faf8;
     width: 800px;
@@ -159,4 +159,12 @@ button {
     border: solid white 2px;
     border-radius: 10px;
     padding: 10px 30px;
+}
+
+footer {
+    background: #1f2937;
+    color:#f9faf8;
+    padding: 50px;
+    text-align: center;
+    font-weight: lighter;
 }
