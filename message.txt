@@ -1,1 +1,1 @@
-CSS for header of frontpage.html
+CSS for first content container of frontpage.html
